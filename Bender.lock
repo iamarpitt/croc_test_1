@@ -72,3 +72,9 @@ packages:
     source:
       Path: rtl/timer_unit
     dependencies: []
+  ascon:
+    revision: null
+    version: null
+    source:
+      Path: rtl/ascon
+    dependencies: []

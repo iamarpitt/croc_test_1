@@ -9,3 +9,4 @@ overrides:
   obi: { path: "rtl/obi" }
   riscv-dbg: { path: "rtl/riscv-dbg" }
   timer_unit: { path: "rtl/timer_unit" }
+  ascon: { path: "rtl/ascon" }
